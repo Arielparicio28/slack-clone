@@ -33,7 +33,7 @@ button.boton2 img[src="./images/icon-menu.png"]{
 
 }
 
-/* Seleccionar la primera <ul> */
+
 nav > div > ul {
     display: flex;
     gap: 12px;

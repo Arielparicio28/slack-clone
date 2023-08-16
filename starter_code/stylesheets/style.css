@@ -20,7 +20,18 @@ footer links grey: #454245
 body a {
   text-decoration: none;
 }
+body nav {
+  background:  #540B51 ;
+}
 
 body header {
   background:  #540B51 ;
+}
+
+body main{
+  background:  #f3eae2;
+}
+
+ul{
+  list-style: none;
 }
